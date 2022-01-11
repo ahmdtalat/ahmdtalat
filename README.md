@@ -11,9 +11,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/ahmdtalat](https://dev.to/ahmdtalat)
 
-- 💬 Ask me about **React, Prisma, Graphql, TailwindCss**
-
-- 📫 How to reach me **ahmd.talat95@gmail.com**
+- 💬 Ask me about **React, Nodejs, Prisma, Graphql, TailwindCss**
 
 - ⚡ Fun fact **Life is a dad joke**
 
