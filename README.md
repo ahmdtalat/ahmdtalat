@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🤓, I'm Ahmd Talat</h1>
+<!-- <h1 align="center">Hi 🤓, I'm Ahmd Talat</h1>
 <h3 align="center">A passionate Full-stack Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmdtalat&label=Profile%20views&color=0e75b6&style=flat" alt="ahmdtalat" /> </p>
@@ -19,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmdtalat&show_icons=true&locale=en&layout=compact" alt="ahmdtalat" /></p>
 
-
+ -->
